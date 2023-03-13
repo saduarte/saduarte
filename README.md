@@ -9,7 +9,7 @@
 
 <div>
 <a href="https://github.com/saduarte">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saduarte&layout=compact&langs_count=7&theme=buefy"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saduarte&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saduarte&layout=compact&langs_count=7&theme=buefy"  width="90" height="80"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saduarte&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"  width="90" height="80"/> 
 </div>
 
 ## Ferramentas e Tecnologias
