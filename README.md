@@ -4,13 +4,13 @@
    
     🌱 Sou formanda em Análise e Desenvolvimento de Sistemas, agora no último período.
     🔭 Atualmente estou estágiando na area com desenvolvimento de sistema para web com a linguagem Java.
-    📫Podem entrar em contato comigo pelo e-mail sabsduarte@outlook.com
+    📫Podem entrar em contato comigo pelo e-mail <a href="mailto:sabsduarte@outlook.com">sabsduarte@outlook.com</a>
 
 
 <div>
 <a href="https://github.com/saduarte">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saduarte&layout=compact&langs_count=7&theme=buefy" style="max-width: 100%;" width="60" height="50"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saduarte&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" width="80" height="80" style="max-width: 100%;" width="60" height="50"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saduarte&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" style="max-width: 100%;" width="60" height="50"/> 
 </div>
 
 ## Ferramentas e Tecnologias
