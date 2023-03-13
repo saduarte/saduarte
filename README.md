@@ -7,13 +7,11 @@
     📫Podem entrar em contato comigo pelo e-mail sabsduarte@outlook.com
 
 
-<div>
-<a href="https://github.com/saduarte">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saduarte&layout=compact&langs_count=7&theme=buefy"  width="90" height="80"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saduarte&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"  width="90" height="80"/> 
-</div>
 
   
-## Ferramentas e Tecnologias
+##⚡Tecnologias
+
+Estas são algumas tecnologias e ferramentas que estou aprendendo
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="60" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="50"/>
