@@ -9,7 +9,7 @@
 
 
   
-##⚡Tecnologias
+ ## Tecnologias
 
 Estas são algumas tecnologias e ferramentas que estou aprendendo
 
