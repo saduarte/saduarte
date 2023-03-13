@@ -12,6 +12,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saduarte&layout=compact&langs_count=7&theme=buefy"  width="90" height="80"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saduarte&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"  width="90" height="80"/> 
 </div>
 
+  
 ## Ferramentas e Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="60" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="50"/>
