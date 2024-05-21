@@ -4,7 +4,7 @@
    
     🌱 Sou formada em Análise e Desenvolvimento de Sistemas.
     🔭 Atualmente estou estágiando na area com desenvolvimento de sistema para web com a linguagem Java.
-    📫Podem entrar em contato comigo pelo e-mail sabsduarte@outlook.com
+    📫Podem entrar em contato comigo pelo e-mail sabrinasilvaduarte@outlook.com.br
 
 
 
