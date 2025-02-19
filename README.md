@@ -2,8 +2,8 @@
 
   
    
-    🌱 Sou formada em Análise e Desenvolvimento de Sistemas.
-    🔭 Atualmente estou estágiando na area com desenvolvimento de sistema para web com a linguagem Java.
+    🌱 Sou formada em Análise e Desenvolvimento de Sistemas(2013).
+    🔭 Atualmente em busca de oportunidades para desenvolvedor JAVA junior. 
     📫Podem entrar em contato comigo pelo e-mail sabrinasilvaduarte@outlook.com.br
 
 
@@ -25,7 +25,6 @@ Estas são algumas tecnologias e ferramentas que estou aprendendo
 <div>
 <a href="https://instagram.com/sasilvaduarte" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/sabsduarte" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://api.whatsapp.com/send?phone=5531990676226"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" style="max-width: 100%;"></a> 
 </div>
 
 
