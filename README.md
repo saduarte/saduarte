@@ -1,28 +1,24 @@
 # Olá! Me chamo Sabrina Duarte!
 
-  
    
-    🌱 Sou formada em Análise e Desenvolvimento de Sistemas(2013).
-    🔭 Atualmente em busca de oportunidades para desenvolvedor JAVA junior. 
-    📫Podem entrar em contato comigo pelo e-mail sabrinasilvaduarte@outlook.com.br
+    🌱 Sou formada em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá (2023).
+    🔭 Atualmente em busca de oportunidades para desenvolvedor backend JAVA  
+    📫Podem entrar em contato comigo pelo e-mail sabrina.md@outlook.com
 
-
-
-  
- ## Tecnologias
-
-Estas são algumas tecnologias e ferramentas que estou aprendendo
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="60" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60" height="50"/>        
+## Tecnologias e Ferramentas
+Estas são algumas tecnologias e ferramentas que domino, além de outras que estou explorando e desenvolvendo maior proficiência:
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg" width="60" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="60" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="60" height="60"/>        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="60" height="60"/>          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="60" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="50"/>
-          
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60" height="60"/>
+                  
 
 ## Social
 <div>
