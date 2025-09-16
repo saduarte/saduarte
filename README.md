@@ -1,8 +1,7 @@
 # Olá! Me chamo Sabrina Duarte!
 
    
-    🌱 Sou formada em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá (2023).
-    🔭 Atualmente em busca de oportunidades para desenvolvedor backend JAVA  
+    🌱 Sou formada em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá (2023).  
     📫Podem entrar em contato comigo pelo e-mail sabrina.md@outlook.com
 
 ## Tecnologias e Ferramentas
