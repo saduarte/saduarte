@@ -8,7 +8,7 @@ I enjoy building solutions, learning new technologies, and improving my skills t
 
 **Backend:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="20" height="20" alt="Java" title="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="20" height="20" alt="Spring" title="Spring" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="20" height="20" alt="Maven" title="Maven" />
 
-**Frontend:** <img src="./assets/angular.svg" width="20" height="20" alt="Angular" title="Angular" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20" height="20" alt="React" title="React" />
+**Frontend:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"  width="20" height="20" alt="Angular" title="Angular" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20" height="20" alt="React" title="React" />
 
 **Database:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" height="20" alt="MySQL" title="MySQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="20" height="20" alt="Oracle" title="Oracle" />
 
